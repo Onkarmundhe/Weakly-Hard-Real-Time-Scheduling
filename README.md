@@ -12,9 +12,8 @@ This project implements different approaches for scheduling weakly-hard real-tim
 
 ## Prerequisites
 
-- Python 3.x
+- Python
 - Gurobi Optimizer with valid license
-- Jupyter Notebook (for running .ipynb files)
 
 ## Installation
 
